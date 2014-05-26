@@ -7,7 +7,7 @@ Simple Tree
 Демо
 ---
 
-http://psnet.lookformp3.net/_demo/simple-tree/example.htm
+http://psnet.lookformp3.net/_demo/simple_tree/example.htm
 
 
 Часть кода из демо:
