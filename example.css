@@ -1,0 +1,42 @@
+/*
+	Simple Tree Demo
+
+	(P) PSNet 2008 - 2014
+	http://psnet.lookformp3.net
+*/
+
+/* example setup */
+
+* {
+	margin: 0;
+	outline: medium none;
+	padding: 0;
+}
+
+body {
+	background: none repeat scroll 0 0 #EEEEEE;
+	color: #555555;
+	font: 16px/20px Verdana;
+}
+
+.wrapper {
+	background: none repeat scroll 0 0 hsl(0, 0%, 100%);
+	box-shadow: 0 2px 2px hsla(0, 0%, 0%, 0.12);
+	margin: 100px auto;
+	padding: 20px;
+	width: 500px;
+}
+
+.author {
+	background: none repeat scroll 0 0 hsl(0, 0%, 98%);
+	bottom: 0;
+	font-size: 0.7em;
+	padding: 15px;
+	position: fixed;
+	right: 0;
+}
+
+h2.page-header {
+	line-height: 28px;
+	margin-bottom: 25px;
+}
