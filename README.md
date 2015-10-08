@@ -12,33 +12,33 @@ http://psnet.lookformp3.net/_demo/simple_tree/example.htm
 
 Часть кода из демо:
 ```html
-		<ul class="simple-tree">
-			<li>
-				<input type="checkbox" checked="checked" id="simple-tree-item-1" />
-				<label for="simple-tree-item-1">Folder</label>
-				<ul>
-					<li>Item 1</li>
-					<li>Item 2</li>
-					<li>Item 3</li>
-				</ul>
-			</li>
-			<li>
-				<input type="checkbox" checked="checked" id="simple-tree-item-2" />
-				<label for="simple-tree-item-2">Folder</label>
-				<ul>
-					<li>
-						<input type="checkbox" checked="checked" id="simple-tree-item-3" />
-						<label for="simple-tree-item-3">Folder</label>
-						<ul>
-							<li>Item 1</li>
-							<li>Item 2</li>
-							<li>Item 3</li>
-						</ul>
-					</li>
-					<li>Item 3</li>
-				</ul>
-			</li>
-		</ul>
+<ul class="simple-tree">
+  <li>
+    <input type="checkbox" checked="checked" id="simple-tree-item-1" />
+    <label for="simple-tree-item-1">Folder</label>
+    <ul>
+      <li>Item 1</li>
+      <li>Item 2</li>
+      <li>Item 3</li>
+    </ul>
+  </li>
+  <li>
+    <input type="checkbox" checked="checked" id="simple-tree-item-2" />
+    <label for="simple-tree-item-2">Folder</label>
+    <ul>
+      <li>
+        <input type="checkbox" checked="checked" id="simple-tree-item-3" />
+        <label for="simple-tree-item-3">Folder</label>
+        <ul>
+          <li>Item 1</li>
+          <li>Item 2</li>
+          <li>Item 3</li>
+        </ul>
+      </li>
+      <li>Item 3</li>
+    </ul>
+  </li>
+</ul>
 ```
 
 
