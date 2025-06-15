@@ -1,16 +1,16 @@
 Simple Tree
 ===========
 
-Простое сворачиваемое дерево на чистом CSS без использования JS и изображений.
+Simple collapsible tree in pure CSS without using JS and images.
 
 
-Демо
+Demo
 ---
 
 http://psnet.github.io/simple-tree/demo/
 
 
-Часть кода из демо:
+Part of the code from the demo:
 ```html
 <ul class="simple-tree">
   <li>
@@ -42,14 +42,14 @@ http://psnet.github.io/simple-tree/demo/
 ```
 
 
-Подключение
+Connection
 ---
 
-- Подключить CSS файл
-- Создать html код по примеру кода из демо
+- Include CSS file
+- Create html code using the demo code example
 
 
-Лицензия
+License
 ---
 
 (P) PSNet 2014

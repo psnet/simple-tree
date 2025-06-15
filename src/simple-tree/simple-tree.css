@@ -3,10 +3,10 @@
  *
  * Customizable tree works fully on CSS
  *
- * @copyright Serge Pustovit (PSNet), 2008 - 2015
- * @author    Serge Pustovit (PSNet) <light.feel@gmail.com>
+ * @copyright Serhii Pustovit (PSNet), 2008 - 2015
+ * @author    Serhii Pustovit (PSNet) <light.feel@gmail.com>
  *
- * @link      http://psnet.lookformp3.net
+ * @link      https://github.com/psnet
  * @link      https://github.com/psnet/simple-tree
  */
 
@@ -43,7 +43,7 @@
 	transition: all 0.1s ease 0s;
 }
 
-.simple-tree input:checked ~ ul {
+.simple-tree input:checked~ul {
 	height: auto;
 	opacity: 1;
 }
@@ -65,7 +65,7 @@
 	width: 10px;
 }
 
-.simple-tree input:not(:checked) ~ label:before {
+.simple-tree input:not(:checked)~label:before {
 	background: none repeat scroll 0 0 hsl(193, 72%, 43%);
 	box-shadow: 0 1px 2px hsla(0, 0%, 0%, 0.35) inset;
 }
