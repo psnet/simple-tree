@@ -7,7 +7,7 @@ Simple collapsible tree in pure CSS without using JS and images.
 Demo
 ---
 
-http://psnet.github.io/simple-tree/demo/
+[http://psnet.github.io/simple-tree/demo/](http://psnet.github.io/simple-tree/demo/)
 
 
 Part of the code from the demo:
